@@ -1,4 +1,4 @@
-# Cloud Computing Project 1 Assignment - Yen Kai Tseng
+
 
 This is an AWS operations project that includes basic operations for EC2, S3, and SQS.
 
